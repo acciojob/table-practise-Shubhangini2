@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+
+table{
+	border-collapse: collapse;
+	width: 100;
+	background-color : yellow;
+}
+
+table{
+	border: 1px solid black;
+}
+
+caption{
+	
+}
+
+th{
+    border: 1px;
+    border-style: solid;
+    padding: 5px;
+}
