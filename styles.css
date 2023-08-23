@@ -11,10 +11,10 @@ table{
 }
 
 caption{
-	
+	font-weight : bold;
 }
 
-th{
+th,td{
     border: 1px;
     border-style: solid;
     padding: 5px;
